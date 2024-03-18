@@ -1,0 +1,7 @@
+{
+  "new-card-insertion-method": "prepend",
+  "date-format": "[[due::] YYYY-MM-DD[]]",
+  "date-display-format": "DD MMM YYYY",
+  "show-relative-date": true,
+  "hide-date-display": true
+}

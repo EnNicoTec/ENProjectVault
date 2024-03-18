@@ -1,0 +1,37 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "System/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "System/Scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "System/Templates/New Empty.md",
+    "System/Templates/Func-New Task.md",
+    "System/Templates/Func-ProjectSetup.md",
+    "System/Templates/Func-Create new Contact.md",
+    "System/Templates/Func-ProjectAddContributor.md",
+    "System/Templates/Func-ProjectPauseSwitch.md",
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

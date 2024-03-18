@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "0566c02f0b4a9947",
+    "type": "split",
+    "children": [
+      {
+        "id": "390861016a1bc48b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61b7bd544c49a22a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd6f267bd8992966",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce0c58e3b7de0629",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7e414676058b0c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e57aede60c2357b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e438a411e86fb7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3e5076eddc5b856",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3f08ca6fb4198fcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "37043e2fc10edd01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c57a2e3bad0facaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects Overview.md"
+              }
+            }
+          },
+          {
+            "id": "725d85b340641580",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e102046c4845818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8363153f8b4bdfc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40c4ccb126cb12b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "61b7bd544c49a22a",
+  "lastOpenFiles": [
+    "SampleProject/Overview SampleProject.md",
+    "Personal/Contacts/Test2.md",
+    "Projects Overview.md",
+    "SampleProject/Tasks SampleProject.md",
+    "Personal/Contacts/me.md",
+    "SampleProject/Journal SampleProject.md",
+    "SampleProject",
+    "SampleProject/Notes SampleProject.md",
+    "README.md",
+    "Quick Note.md",
+    "System/Templates/New Project Overview.md",
+    "System/Templates/Func-ProjectAddContributor.md"
+  ]
+}
