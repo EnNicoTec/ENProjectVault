@@ -1,2 +1,5 @@
 # Ignore created projects
 /Projects/**
+
+# Ignore trashbin
+/.trash/**
