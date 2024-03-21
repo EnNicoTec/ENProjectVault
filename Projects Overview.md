@@ -19,7 +19,7 @@ const factor_inProgress = 0.3;
 const factor_onHold = 0.3;
 const factor_review = 0.7;
 const factor_done = 1;
-const chartAspectRatio = 4; // (Width / Height)
+const chartWidthRatio = 12; // (Width / Height)
 const barSizePercentage = 1;
 const projectPauseTag = "#ProjectOnHold";
 const projectPauseColor = {
@@ -110,7 +110,7 @@ let chartConfig = {
         }]
     },
 	options: {
-		//aspectRatio: chartAspectRatio,
+		aspectRatio: chartWidthRatio / projectIDs.length,
 		indexAxis: 'y',
 		scales: {
 			x: {
