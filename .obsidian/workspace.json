@@ -163,13 +163,19 @@
   },
   "active": "61b7bd544c49a22a",
   "lastOpenFiles": [
-    "System/Templates/New Contact.md",
-    "Projects Overview.md",
     "Personal/Contacts/me.md",
+    "Projects Overview.md",
+    "SampleProject/Overview SampleProject.md",
+    "System/Templates/New Project Overview.md",
+    "Projects/test123/Overview test123.md",
+    "Projects/test123/Journal test123.md",
+    "Projects/test123/Tasks test123.md",
+    "Projects/test123",
+    "Projects/test123/Notes test123.md",
+    "System/Templates/New Contact.md",
     "Personal/Contacts/Test.md",
     "System/Templates/New Empty.md",
     "System/Templates/New Daily.md",
-    "SampleProject/Overview SampleProject.md",
     "Personal/Contacts/Test2.md",
     "SampleProject/Tasks SampleProject.md",
     "SampleProject/Journal SampleProject.md",
@@ -177,7 +183,6 @@
     "SampleProject/Notes SampleProject.md",
     "README.md",
     "Quick Note.md",
-    "System/Templates/New Project Overview.md",
     "System/Templates/Func-ProjectAddContributor.md"
   ]
 }

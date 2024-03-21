@@ -19,7 +19,7 @@ const factor_inProgress = 0.3;
 const factor_onHold = 0.3;
 const factor_review = 0.7;
 const factor_done = 1;
-const chartWidthRatio = 12; // (Width / Height)
+const chartWidthRatio = 10; // (Width / Height)
 const barSizePercentage = 1;
 const projectPauseTag = "#ProjectOnHold";
 const projectPauseColor = {
@@ -187,5 +187,6 @@ dv.table(["Project", "☑️ | 🔴 | ✅", "👨 Contributors"],
 name Load Data
 type command
 action Templater: Insert System/Templates/New Empty.md
+color purple
 ```
-^button-auxj
+^button-loadtemplater

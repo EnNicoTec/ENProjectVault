@@ -1,32 +1,13 @@
-<%*
-
-let projectAsset = "Overview";
-
-const dv = app.plugins.plugins['dataview'].api;
-let projectID = tp.user.getLatestProjectID(dv);
-
-await tp.user.replaceFileContent(
-	"me",
-	/^projects\:( ){0,1}(\[|\]){0,2}/gm,
-	"projects: \n  - " + projectID
-);
-
-let fileName = projectAsset + " " + projectID;
-let folderPath = "/Projects/" + projectID;
-console.log("Moving file to: " + folderPath + "/" + fileName);
-await tp.file.move(folderPath + "/" + fileName);
-
--%>
 ---
 type: Overview
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2024-03-21
 tags:
   - ProjectAsset/Overview
-  - Project/<% projectID %>
-projectid: <% projectID %>
+  - Project/test123
+projectid: test123
 ---
-# <% projectID %> | Overview
-<% tp.file.cursor() %>
+# test123 | Overview
+
 
 ## ⏩ Progress
 
