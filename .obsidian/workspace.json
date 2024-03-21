@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "3f08ca6fb4198fcd",
@@ -163,9 +163,11 @@
   },
   "active": "61b7bd544c49a22a",
   "lastOpenFiles": [
+    "System/Templates/New Empty.md",
+    "Projects Overview.md",
+    "System/Templates/New Daily.md",
     "SampleProject/Overview SampleProject.md",
     "Personal/Contacts/Test2.md",
-    "Projects Overview.md",
     "SampleProject/Tasks SampleProject.md",
     "Personal/Contacts/me.md",
     "SampleProject/Journal SampleProject.md",
